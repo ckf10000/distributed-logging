@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="distributed-logging",
-    version="0.0.2",
+    version="0.0.3",
     description='This is my distributed logging package',
     long_description='This is my distributed logging package',
     author='ckf10000',
