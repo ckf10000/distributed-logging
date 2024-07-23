@@ -1,4 +1,5 @@
 twine==5.1.1
 pywin32==306
 wheel==0.43.0
+PyYAML==6.0.1
 setuptools==69.2.0
